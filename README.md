@@ -1,4 +1,5 @@
-# face-recongnition-eyetracking
+# opencv_project
+
 presentation : https://youtu.be/7XKzfS7BTNE
 opencv_project file ->  eye_tracking file , face_recog file
 
